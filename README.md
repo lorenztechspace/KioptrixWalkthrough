@@ -9,7 +9,7 @@ This project demonstrates the step-by-step process of exploiting the Kioptrix Le
 
 ## Project Structure
 - `/src/`: Contains the detailed commands used for the exploitation process.
-- `/docs/kioptrix_exploit_guide.md`: Step-by-step guide for exploiting the machine.
+- [`/docs/kioptrix_exploit_guide.md`](https://github.com/lorenztechspace/KioptrixWalkthrough/blob/main/docs/kioptrix_exploit_guide.md): Step-by-step guide for exploiting the machine.
 - [`/docs/setup_of_kioptrix.md`](https://github.com/lorenztechspace/KioptrixWalkthrough/blob/main/docs/setup_of_kioptrix.md): Detailed explanation on how to download and install kioptrix.
 
 ## Requirements
