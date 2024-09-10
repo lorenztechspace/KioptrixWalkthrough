@@ -6,13 +6,11 @@ This project demonstrates the step-by-step process of exploiting the Kioptrix Le
 ## Features
 - Reconnaissance using tools like `nmap`
 - Identifying and exploiting vulnerabilities
-- Privilege escalation
 
 ## Project Structure
 - `/src/`: Contains the detailed commands used for the exploitation process.
 - `/docs/kioptrix_exploit_guide.md`: Step-by-step guide for exploiting the machine.
 - `/docs/setup_of_kioptrix.md`: Detailed explanation on how to download and install kioptrix.
-- `/screenshots/`: Visuals for each step of the exploitation process.
 
 ## Requirements
 - VirtualBox or VMware for running the Kioptrix machine
@@ -26,6 +24,3 @@ This project demonstrates the step-by-step process of exploiting the Kioptrix Le
 
 ## Usage
 Run the exploitation commands found in `/src/exploit_steps.txt` or follow along with the documentation for each step.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
