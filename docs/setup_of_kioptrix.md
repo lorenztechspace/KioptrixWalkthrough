@@ -19,7 +19,7 @@ Extract Kioptrix <br/>
 <br />
 
 <p align="center">
-Waif for extract process to complete <br/>
+Wait for extract process to complete <br/>
 <img src="https://i.imgur.com/Xo6ynwx.png" height="80%" width="80%" alt="KioptrixWalkthrough"/>
 <br />
 <br />
